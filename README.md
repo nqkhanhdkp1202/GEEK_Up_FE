@@ -18,7 +18,7 @@
   - yarn: thực hiện việc cài yarn package theo đường dẫn: https://classic.yarnpkg.com/lang/en/docs/install/
   - VSCode: thực hiện cài VSCode theo đường dẫn https://code.visualstudio.com/download
 ### 2. Cách start project
-  - Tải file .zip của project từ URL: https://drive.google.com/file/d/1KkY_j6AujJrr0kCpwRSbg9qp75sbcGlh/view?usp=sharing
+  - Tải file .zip của project từ URL được đính kèm
   - Giải nén file .zip vừa tải và mở trong VSCode
   - Chạy câu lệnh "yarn" trong terminal để tải toàn bộ các package cần thiết
   - Chạy câu lệnh "yarn run dev" 
